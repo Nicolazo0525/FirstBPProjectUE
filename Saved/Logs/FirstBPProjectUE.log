@@ -1362,3 +1362,39 @@ Purging the undo buffer...
 [2024.07.08-20.44.24:415][131]AssetCheck: New page: Asset Save: multiple assets
 [2024.07.08-20.44.24:415][131]LogContentValidation: Display: Validating World /Game/test.test
 [2024.07.08-20.44.24:415][131]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/test_BuiltData.test_BuiltData
+[2024.07.08-20.46.15:623][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test" FILE="../../../../../Unreal Projects/FirstBPProjectUE/Content/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.08-20.46.15:647][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.07.08-20.46.15:659][ 38]LogSavePackage: Moving '../../../../../Unreal Projects/FirstBPProjectUE/Saved/testEC2E1D2F4E338998AD85BCB3197A553D.tmp' to '../../../../../Unreal Projects/FirstBPProjectUE/Content/test.umap'
+[2024.07.08-20.46.15:675][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_BuiltData" FILE="../../../../../Unreal Projects/FirstBPProjectUE/Content/test_BuiltData.uasset" SILENT=true
+[2024.07.08-20.46.15:703][ 38]LogSavePackage: Moving '../../../../../Unreal Projects/FirstBPProjectUE/Saved/test_BuiltData0A5602C54A0AB5FBB3CD2FB42BA585FF.tmp' to '../../../../../Unreal Projects/FirstBPProjectUE/Content/test_BuiltData.uasset'
+[2024.07.08-20.46.15:719][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.08-20.46.15:719][ 38]LogContentValidation: Display: Validating World /Game/test.test
+[2024.07.08-20.46.15:719][ 38]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/test_BuiltData.test_BuiltData
+[2024.07.08-20.46.16:711][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.07.08-20.46.18:239][246]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2024.07.08-20.46.19:623][359]Cmd: TRANSACTION UNDO
+[2024.07.08-20.46.19:623][359]LogEditorTransaction: Undo Clicking on Actors
+[2024.07.08-20.46.20:303][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.07.08-20.46.26:462][939]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.07.08-20.46.26:921][978]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.07.08-20.46.27:037][983]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2024.07.08-20.46.27:575][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2024.07.08-20.46.27:643][ 31]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2024.07.08-20.46.28:536][109]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2024.07.08-20.46.29:094][158]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2024.07.08-20.46.29:465][190]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2024.07.08-20.46.33:068][507]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.07.08-20.46.33:146][511]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2024.07.08-20.46.34:052][588]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2024.07.08-20.46.34:316][610]Cmd: TRANSACTION UNDO
+[2024.07.08-20.46.34:316][610]LogEditorTransaction: Undo Clicking on Components
+[2024.07.08-20.46.34:876][631]Cmd: TRANSACTION UNDO
+[2024.07.08-20.46.34:877][631]LogEditorTransaction: Undo Clicking on Actors
+[2024.07.08-20.46.35:473][678]Cmd: TRANSACTION UNDO
+[2024.07.08-20.46.35:473][678]LogEditorTransaction: Undo Clicking on Components
+[2024.07.08-20.46.36:150][735]Cmd: TRANSACTION UNDO
+[2024.07.08-20.46.36:150][735]LogEditorTransaction: Undo Clicking on Actors
+[2024.07.08-20.46.36:756][784]Cmd: TRANSACTION UNDO
+[2024.07.08-20.46.36:756][784]LogEditorTransaction: Undo Clicking on Components
+[2024.07.08-20.46.37:282][826]Cmd: TRANSACTION UNDO
+[2024.07.08-20.46.37:282][826]LogEditorTransaction: Undo Clicking on Actors
